@@ -1,0 +1,12 @@
+Que - What are the benefits of using meta tags?
+Ans - Using meta tags in HTML documents provides several benefits for web developers, search          engines, and users.Some of the key benefits include.
+     
+      1. SEO: Meta tags, such as the "description" and "keywords" tags, can help improve a                    webpage's visibility on such engine result pages. a well crafted meta description can attract          users to click on the link while the keywords tag, although less impactful than in the past,               can still provide search engines with relevent information about the page's content.
+
+     2. Social media sharing - Meta tags like the open graph protocol tags allow developers to                   control how web pages are displayed when shared on social media platforms like                   facebook, twitter and linkedin.
+
+     3. Character encoding and language - The meta tag specifying the character encoding          ensures that the browers interprets the text correctly, especially when dealing with special          characters or multilingual content.
+
+     4. Viewport control - The viewport meta tag os crucial for responsive web design. It allow          developers to set the initial scale and width of the viewport, ,making sure the webpage          adapts well to different screen sizes and resolutions.
+
+    5. Web accessiblity - Certain meta tags can omprove web accessibilities by providing         additional information to assistive technologies, making it easier for users with disabilities to         navigate and underatand the content.
